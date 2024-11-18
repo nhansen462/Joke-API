@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "joke": "Do you know where to find the most beautiful person?",
+        "punchline": "Turn off your monitor"
+    },
+    {
+        "id": 2,
+        "joke": "Why was 6 afraid of 7?",
+        "punchline": "Because 7 committed various war crimes in 2006"
+    },
+    {
+        "id": 3,
+        "joke": "How do you figure out if someone is a chemist or a plumber?",
+        "punchline": "Ask them to pronouce 'unionized'"
+    },
+    {
+        "id": 5,
+        "joke": "What is the answer to life, the universe, and everything?",
+        "punchline": "42"
+    },
+    {
+        "id": 6,
+        "joke": "This isn't a joke",
+        "punchline": "I couldn't think of a 6th one and using ChatGPT is lame"
+    }
+]
